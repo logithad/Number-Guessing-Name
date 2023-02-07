@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+}
+
+#cong{
+    background-color: green;
+    display: inline-block;
+    width: 50%;
+}
+.wrong{
+    background-color: red;
+    display: inline-block;
+    width: 50%;
+}
